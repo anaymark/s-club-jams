@@ -1,3 +1,18 @@
+
+# Bloc Jams!
+
+### Music Application built with ReactJS
+
+![screenshot](https://github.com/dangerzone08/bloc-jams-react/blob/master/public/assets/images/bloc-jams-preview.gif)
+
+### Created Using
+* ReactJS
+* React Router
+* J-Query
+* Material-UI
+* React Bootstrap
+* React-Grid
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
