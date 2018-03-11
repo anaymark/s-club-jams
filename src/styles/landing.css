@@ -1,0 +1,39 @@
+.hero-title {
+  font-family: "Pacifico", cursive;
+  font-size: 6rem;
+  color: black;
+}
+
+.hero {
+border-top: 2rem solid rgba(130, 130, 130, 0.5);
+border-radius: 50%;
+}
+
+.points-all {
+  padding-left: 20px;
+}
+
+.hero-theme {
+  font-family: "Pacifico", cursive;
+  font-size: 3rem;
+  color: black;
+  border-bottom: 2rem solid rgba(130, 130, 130, 0.5);
+  border-radius: 50%;
+}
+
+.drawer-pop {
+  background-color: rgb(200, 48, 48);
+}
+
+.point-title {
+margin-top: -40px;
+font-family: "Pacifico", cursive;
+padding: 10px;
+font-size: auto;
+}
+
+.point-description {
+font-family: "Pacifico";
+padding: 20px;
+font-size: auto;
+}
